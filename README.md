@@ -1,3 +1,3 @@
 -This is a simple calculator project file .
--Language uses are HTML , CSS , JS
+-Language uses are HTML , CSS , JS , Bootstrap
 -You can use this calculator like real calculator almost perfectly.
