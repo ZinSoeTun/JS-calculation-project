@@ -1,2 +1,3 @@
-This is a simple calculator project file .
-language uses are html , css , JS
+-This is a simple calculator project file .
+-Language uses are HTML , CSS , JS
+-You can use this calculator like real calculator almost perfectly.
